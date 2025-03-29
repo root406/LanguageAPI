@@ -1,0 +1,10 @@
+name: LanguageAPI
+version: '1.0-SNAPSHOT'
+main: de.radjaguar2005.languageAPI.LanguageAPI
+api-version: '1.21'
+authors: [ RadJaguar2005 ]
+
+commands:
+  language:
+    description: "Change your language"
+    usage: /<command>

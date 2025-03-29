@@ -1,0 +1,11 @@
+mysql:
+  host: "localhost"
+  port: 3306
+  database: "YourDataBaseName"
+  username: "YourUser"
+  password: "YourPassword"
+
+languages:
+  de_DE: German
+  en_US: English (US)
+  en_UK: English (UK)
